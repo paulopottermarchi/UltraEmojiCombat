@@ -61,7 +61,7 @@ Contribuições são bem-vindas! Para contribuir:
 5. Abra um Pull Request
 
 ## Autor ✍️
-- Paulo [Seu Nome Completo ou Username]
+- Paulo Potter
 
 ## Licença 📄
 Este projeto está sob a licença [sua licença]. Veja o arquivo `LICENSE` para mais detalhes.
@@ -70,4 +70,4 @@ Este projeto está sob a licença [sua licença]. Veja o arquivo `LICENSE` para 
 Em desenvolvimento - Versão 1.0
 
 ---
-⌨️ com ❤️ por [seu nome/username] 😊
+⌨️ com ❤️ por [Paulo/Potter] 😊
